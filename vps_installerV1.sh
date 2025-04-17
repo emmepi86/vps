@@ -1,11 +1,11 @@
 #!/usr/bin/env bash
 ###############################################################################
 # HARDENING SERVER LINUX – SCRIPT COMPLETO (10 BLOCCHI MODULARI)              #
-# Autore: <tuo‑nome>                                                          #
+# Autore: Massimiliano Paragnani                                              #
 ###############################################################################
 
 ################################################################################
-# 0) VARIABILI GLOBALI, LOGGING, DRY‑RUN                                        #
+# 0) VARIABILI GLOBALI, LOGGING, DRY‑RUN                                       #
 ################################################################################
 SCRIPT_NAME=$(basename "$0")
 LOG_DIR=/var/log/hardening
